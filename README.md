@@ -131,8 +131,10 @@ I'm a passionate Software Engineering student constantly seeking new challenges 
 
 <br />
 
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Francehhh&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <br/>
+</div>
 <br />
 
 <div align="center">
