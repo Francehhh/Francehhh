@@ -96,10 +96,10 @@ I'm a passionate Software Engineering student constantly seeking new challenges 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Francehh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Francehhh&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Francehh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Francehhh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
   </a>
 </div>
 
@@ -108,7 +108,7 @@ I'm a passionate Software Engineering student constantly seeking new challenges 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Francehh&theme=radical" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Francehhh&theme=radical" alt="GitHub Trophies" width="100%" />
 </div>
 
 <br />
